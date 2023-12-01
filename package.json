@@ -1,0 +1,16 @@
+{
+    "name": "monorepo-nest-react",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "turbo run dev",
+        "build": "turbo run build",
+        "start": "npm run build && node api/dist/main",
+        "test": "turbo run test"
+    },
+    "devDependencies": {
+        "turbo": "^1.10.16"
+    },
+    "workspaces": [
+        "apps/*"
+    ]
+}
