@@ -1,0 +1,6 @@
+[submodule "apps/cats-client"]
+	path = apps/cats-client
+	url = https://github.com/abroudoux/cats-client.git
+[submodule "apps/cats-api"]
+	path = apps/cats-api
+	url = https://github.com/abroudoux/cats-api.git
