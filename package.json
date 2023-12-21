@@ -4,7 +4,7 @@
     "scripts": {
         "dev": "turbo run dev",
         "build": "turbo run build",
-        "start": "npm run build && node api/dist/main",
+        "start": "npm run build && node apps/cats-api/dist/main",
         "test": "turbo run test"
     },
     "devDependencies": {
