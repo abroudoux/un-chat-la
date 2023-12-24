@@ -1,1 +1,1 @@
-# monorepo-nest-react
+# monorepo-cats-manager
