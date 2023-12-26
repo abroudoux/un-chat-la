@@ -1,1 +1,1 @@
-# monorepo-cats-manager
+# cats-monorepo 🐈
